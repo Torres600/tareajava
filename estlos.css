@@ -1,0 +1,28 @@
+#contenedor{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+#divtareas{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    background-color: gold;
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background-image: url(fondo1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
